@@ -7,7 +7,7 @@ ${BROWSER}                  chrome
 ${URL}                      http://automationpractice.com
 &{CLIENTE}                  firstname=Metaline   
 ...                         lastname=Oliveira  
-...                         password=Met@l1
+...                         password=Met@l1ne
 ...                         email=metaline@mailinator.com
 ...                         address=Rua da Alegria, 426    
 ...                         city=Porto    
